@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hackpad-pcb.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -661,7 +661,7 @@
         "uuid": "e57530fa-a5ec-4130-b40f-6c8906a020e8"
       }
     ],
-    "used_designators": "#PWR1-2,SW1-3,U1",
+    "used_designators": "#PWR1-3,D1-12,SW1-13,U1-2",
     "variants": []
   },
   "sheets": [
