@@ -1,0 +1,7 @@
+#pragma once
+#define I2C_DRIVER_I2CD1
+#define I2C1_SDA_PIN GP6
+#define I2C1_SCL_PIN GP7
+#define OLED_DISPLAY_128X32
+#define OLED_DISPLAY_ADDRESS 0x3C
+#define OLED_TIMEOUT 30000
