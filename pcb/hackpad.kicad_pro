@@ -526,8 +526,8 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "hackpad-pcb.step",
-      "vrml": ""
+      "step": "hackpad-pcb.stl",
+      "vrml": "hackpad.wrl"
     },
     "page_layout_descr_file": ""
   },
