@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/",
       "specctra_dsn": "",
       "step": "hackpad-pcb.stl",
       "vrml": "hackpad.wrl"
