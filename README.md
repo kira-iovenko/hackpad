@@ -66,6 +66,31 @@ To flash: put the XIAO RP2040 into bootloader mode (double-tap RESET or hold BOO
 - Fusion 360 (case)
 - QMK (firmware)
 
+## Bill of Materials
+
+### Components
+
+| Qty | Component                    | Notes                      |
+| --: | ---------------------------- | -------------------------- |
+|   1 | Seeed Studio XIAO RP2040     | Main microcontroller       |
+|   1 | 0.91" SSD1306 OLED Display   | 128×32, I2C                |
+|  12 | MX-style Mechanical Switches | Switches of choice         |
+|  12 | Blank DSA Keycaps            | White                      |
+|   4 | M3×16mm Screws               | Enclosure fasteners        |
+|   1 | M3×12mm Screw                | Enclosure fastener         |
+|   5 | M3×5×4mm Heatset Inserts     | Brass threaded inserts     |
+|  12 | 1N4148 Diodes                | Through-hole matrix diodes |
+|   1 | Case                         | Case (3 printed parts)     |
+
+### Hack Club Grants
+
+I used/received the following Hack Club grants during the project:
+
+* **Hackpad Kit!** - Hackpad kit containing parts for the project
+* **Printing Legion Grant** - $8 shipping credit for a part under 300g
+* **Soldering Iron Grant** - $18 grant toward a soldering iron
+* **Hackpad PCB Grant** - $10 JLCPCB credit for the Hackpad PCB
+
 ## Inspiration
 
 It was was created using guide from Hack Club's Stardance program as a starting point. It was also inspired by [Orpheuspad](https://github.com/qcoral/orpheuspad) and the wider custom hackpad community. Thanks for sharing your bilds!

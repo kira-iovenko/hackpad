@@ -1,0 +1,14 @@
+Item,Required Qty,Component Description,Sourcing / Part Notes
+1,1,Seeed Studio XIAO RP2040,Main Microcontroller Board (Unsoldered)
+2,1,0.91 SSD1306 OLED Display,128x32 Pixel Screen, I2C Interface
+3,12,MX-Style Mechanical Switches,Keyswitches of choice
+4,12,Blank DSA Keycaps,White keycaps
+5,4,M3x16mm Screws,Enclosure fasteners
+6,1,M3x12mm Screws,Enclosure fasteners
+7,5,M3x5x4mm Heatset Inserts,Brass threaded chassis inserts
+8,12,1N4148 Diodes,Through-hole matrix diodes
+9,1,Soldering Iron Grant,Card grant to buy a soldering iron
+10,1,Case,Case (3 printed parts)
+11,1,Hackpad PCB Grant,Card grant to buy pcb
+12,1,Printing Legion Grant,Card grant to print the case parts
+13,1,Hackpad Kit!,A Hackpad kit with all the parts to build hackpad!
