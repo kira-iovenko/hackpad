@@ -66,21 +66,30 @@ To flash: put the XIAO RP2040 into bootloader mode (double-tap RESET or hold BOO
 - Fusion 360 (case)
 - QMK (firmware)
 
+## BOM (Bill of Materials)
+
 ## Bill of Materials
 
-### Components
+The complete itemized parts list is in **[`BOM.csv`](BOM.csv)**.
 
-| Qty | Component                    | Notes                      |
-| --: | ---------------------------- | -------------------------- |
-|   1 | Seeed Studio XIAO RP2040     | Main microcontroller       |
-|   1 | 0.91" SSD1306 OLED Display   | 128×32, I2C                |
-|  12 | MX-style Mechanical Switches | Switches of choice         |
-|  12 | Blank DSA Keycaps            | White                      |
-|   4 | M3×16mm Screws               | Enclosure fasteners        |
-|   1 | M3×12mm Screw                | Enclosure fastener         |
-|   5 | M3×5×4mm Heatset Inserts     | Brass threaded inserts     |
-|  12 | 1N4148 Diodes                | Through-hole matrix diodes |
-|   1 | Case                         | Case (3 printed parts)     |
+Prices are indicative per-unit estimates or previously observed listings, not verified live checkout prices. Shipping, tax, supplier pack sizes, PCB manufacturing minimums, and 3D-printing quotes are excluded.
+
+| Component | Qty | Unit price (USD) | Extended cost (USD) | Purchase/source |
+|---|---:|---:|---:|---|
+| Seeed Studio XIAO RP2040 | 1 | $3.99 | $3.99 | [Link](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
+| 0.91 inch SSD1306 OLED display 128x32 I2C | 1 | $3.73 | $3.73 | [Link](https://www.robotshop.com/products/091-inch-128x32-i2c-oled-display-blue) |
+| EC11 rotary encoder | 1 | $1.50 | $1.50 | [Link](https://www.aliexpress.com/w/wholesale-ec11-rotary-encoder.html) |
+| MX-style mechanical switches | 12 | $0.40 | $4.80 | [Link](https://www.aliexpress.com/w/wholesale-mx-mechanical-switch.html) |
+| Blank DSA keycaps white | 12 | $0.60 | $7.20 | [Link](https://www.aliexpress.com/w/wholesale-blank-dsa-keycaps.html) |
+| M3 x 16 mm screws | 4 | $0.15 | $0.60 | [Link](https://www.mcmaster.com/products/socket-head-screws/thread-size~m3/) |
+| M3 x 12 mm screw | 1 | $0.15 | $0.15 | [Link](https://www.mcmaster.com/products/socket-head-screws/thread-size~m3/) |
+| M3 x 5 x 4 mm heat-set inserts | 5 | $0.25 | $1.25 | [Link](https://www.aliexpress.com/w/wholesale-m3-heat-set-insert.html) |
+| 1N4148 through-hole diodes | 12 | $0.10 | $1.20 | [Link](https://www.digikey.com/en/products/result?keywords=1N4148) |
+| 3D-printed case (3 parts) | 1 | $3.00 | $3.00 | [CAD files](cad/) |
+| Custom hackpad PCB | 1 | $2.00 | $2.00 | [Link](https://jlcpcb.com/) |
+| **Estimated total** | | | **$29.42** | |
+
+**Pricing note:** Several links lead to product searches, not exact purchasable variants. The PCB $2.00 and printed case $3.00 are allowances, not supplier quotes.
 
 ### Hack Club Grants
 
